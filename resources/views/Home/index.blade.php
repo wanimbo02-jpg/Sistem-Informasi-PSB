@@ -775,8 +775,8 @@
                         SMA Negeri Karubaga
                     </h1>
                     <h2 class="hero-subtitle" style="font-weight: bold; font-size: 1.8rem;">
-                    Penerimaan Peserta Didik Baru {{ $tahun_ajaran }}
-                    </h2>
+                     Penerimaan Peserta Didik Baru {{ date('Y') . '/' . (date('Y') + 1) }}
+                     </h2>
                     <p class="hero-description" style="font-size: 2rem; display: block; font-weight: 600;">
                     Bergabunglah bersama kami untuk mewujudkan masa depan gemilang 
                     dengan pendidikan berkualitas dan lingkungan belajar yang kondusif.
